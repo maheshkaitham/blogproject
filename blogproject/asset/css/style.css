@@ -1,0 +1,111 @@
+*{
+    font-family: cursive;
+}
+
+.navbar{
+    background-color: rgb(4, 155, 105);
+    padding: 15px;
+    top: 0;
+    font-size: 17px;
+
+}
+a{
+    color: white;
+    text-decoration: none;
+
+}
+.navbar a{
+    margin-left: 10px;
+}
+body{
+    margin: 0;
+}
+.float-right{
+    float: right;
+}
+.btn{
+    padding: 3px 10px 5px 10px;
+    border-radius: 5%;
+}
+.btn-primary{
+    background-color: rgba(15, 203, 228, 0.881);
+}
+.btn-warning{
+    background-color: rgb(98, 202, 7);
+
+}
+.mt-1px{
+    margin-top: 1px;
+}
+.row{
+    display: flex;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.col-2{
+    width: 50%;
+
+}
+.col-3{
+    width: 33.33%;
+}
+.col-4{
+    width: 50%;
+}
+.mt-10px{
+    margin-top: 10px;
+}
+.card{
+    border: 1px solid rgb(211, 205, 205);
+    padding: 10px;
+    margin: 10px;
+}
+.text-center{
+    text-align: center;
+}
+img{
+    width: 100%;
+}
+.card img{
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    margin: auto;
+
+}
+/* .img-responsive{
+    width: 100%;
+
+} */
+.card{
+    text-align: center;
+}
+.card a{
+    color: cadetblue;
+}
+.card p{
+    color: rgb(100, 97, 97);
+    text-align: justify;
+}
+.text-primary{
+    color: black;
+
+}
+.text-justifer{
+    text-align: justify;
+}
+.footer{
+    background-color: rgb(20, 138, 138);
+    padding: 5px;
+}
+.p-1{
+    padding: 25px;
+}
+.p-5{
+    padding: 2px;
+    color: white;
+    background-color: rgb(172, 169, 169);
+}
+.p-1{
+    padding: 10px;
+}
